@@ -1,2 +1,2 @@
 # Python-miner-project
-minor python, 
+here you find all shorts of minor project for python
